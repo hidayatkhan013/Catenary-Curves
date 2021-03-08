@@ -1,16 +1,11 @@
-|
- |
- |
-| --- | --- |
 
-#
 # Catenary Curves
 
 ## Free Hanging Cable
 
 A free hanging cable suspended from two fixed points takes the shape of a catenary curve (see below).
 
-![](RackMultipart20210308-4-xn0tsz_html_132531c6a8ae6e7e.jpg)
+![](Picture1.jpg)
 
 The equation of a catenary curve is :
 
