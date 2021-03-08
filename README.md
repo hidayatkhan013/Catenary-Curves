@@ -29,4 +29,4 @@ Your code should :
 
 ## A sample figure screen :
 
-![](RackMultipart20210308-4-xn0tsz_html_d682f4ad5460dc9f.png)
+![](Picture2.png)
